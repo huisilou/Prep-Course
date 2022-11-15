@@ -1,10 +1,10 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = amarillo;
+const nuevaString = 'amarillo';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 4;
+const nuevoNum = 2 ;
 
 // Crea una variable booleana:
 const nuevoBool = (0); 
@@ -16,7 +16,7 @@ const nuevaResta = 10 - 5 === 5;
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === 1,05;
+const nuevoModulo = 21 % 5 === 1;
 
 
 // En los próximos 22 problemas, deberás completar la función.

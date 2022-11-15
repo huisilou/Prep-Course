@@ -1,0 +1,9 @@
+Variables: es un espacio de almacenamiento de informacion identificado en un nombre/titulo
+
+Strings: es una variable compuesta por caracteres, generalmente palabras, encerradas entre tildes
+
+Funciones (argumentos, return) :
+
+Declaraciones (if) : son condiciones a las cuales le asignamos una consecuencia 
+
+Valores booleanos (true, false): son consecuencias de una declaracion
